@@ -1,0 +1,43 @@
+main {
+    background: skyblue;
+}
+
+main > div:nth-child(1){
+    background: red;
+}
+
+main > div:nth-child(2){
+    background: green;
+}
+
+main > div:nth-child(3){
+    background: blue;
+}
+
+main > div:nth-child(4){
+    background: chocolate;
+}
+
+main > div:nth-child(5){
+    background: orange;
+}
+
+main > div:nth-child(6){
+    background: indigo;
+}
+
+main > div:nth-child(7){
+    background: maroon;
+}
+
+main > div:nth-child(8){
+    background-color:sienna ;
+}
+
+main > div:nth-child(9){
+    background: forestgreen;
+}
+
+main > div:nth-child(10){
+    background: rgb(133, 7, 218);
+}
